@@ -1,3 +1,8 @@
 # My thesis on community detection in network
-# Lizhi Zhang
-# 2 Novermber 2020
+## Lizhi Zhang
+## 2 Novermber 2020
+
+## Abstract
+
+## Introduction
+
